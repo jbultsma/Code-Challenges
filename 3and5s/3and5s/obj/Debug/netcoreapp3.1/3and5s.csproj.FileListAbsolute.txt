@@ -1,0 +1,11 @@
+C:\reluctantLoki\.dev\Projects\3and5s\3and5s\bin\Debug\netcoreapp3.1\3and5s.exe
+C:\reluctantLoki\.dev\Projects\3and5s\3and5s\bin\Debug\netcoreapp3.1\3and5s.deps.json
+C:\reluctantLoki\.dev\Projects\3and5s\3and5s\bin\Debug\netcoreapp3.1\3and5s.runtimeconfig.json
+C:\reluctantLoki\.dev\Projects\3and5s\3and5s\bin\Debug\netcoreapp3.1\3and5s.runtimeconfig.dev.json
+C:\reluctantLoki\.dev\Projects\3and5s\3and5s\bin\Debug\netcoreapp3.1\3and5s.dll
+C:\reluctantLoki\.dev\Projects\3and5s\3and5s\bin\Debug\netcoreapp3.1\3and5s.pdb
+C:\reluctantLoki\.dev\Projects\3and5s\3and5s\obj\Debug\netcoreapp3.1\3and5s.csprojAssemblyReference.cache
+C:\reluctantLoki\.dev\Projects\3and5s\3and5s\obj\Debug\netcoreapp3.1\3and5s.AssemblyInfoInputs.cache
+C:\reluctantLoki\.dev\Projects\3and5s\3and5s\obj\Debug\netcoreapp3.1\3and5s.AssemblyInfo.cs
+C:\reluctantLoki\.dev\Projects\3and5s\3and5s\obj\Debug\netcoreapp3.1\3and5s.dll
+C:\reluctantLoki\.dev\Projects\3and5s\3and5s\obj\Debug\netcoreapp3.1\3and5s.pdb
